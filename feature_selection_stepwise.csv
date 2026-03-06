@@ -1,0 +1,15 @@
+Step,Action,Feature,AUC,Change
+1,ADD,sbp_min,0.7095,0.7095
+2,ADD,gcs_unable,0.7471,0.0376
+3,ADD,gcs_min,0.7855,0.0384
+4,ADD,spo2_min,0.8159,0.0304
+5,ADD,resp_rate_min,0.8308,0.0148
+6,ADD,sofa2_liver_24h_max,0.8423,0.0115
+7,ADD,age,0.8502,0.008
+8,ADD,first_careunit,0.8595,0.0093
+9,ADD,sofa2_renal_24h_max,0.8644,0.0049
+10,ADD,race,0.8688,0.0044
+11,ADD,heart_rate_max,0.8732,0.0044
+12,ADD,temperature_min,0.8765,0.0034
+13,ADD,glucose_min,0.8797,0.0032
+14,ADD,resp_rate_max,0.8812,0.0015
